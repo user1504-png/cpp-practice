@@ -1,4 +1,4 @@
-# 💙 C++ Practice & Problem Solving
+#  C++ Practice & Problem Solving
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📂 What's Inside?
+# What's Inside?
 
 | Program | Description |
 |---|---|
@@ -22,20 +22,20 @@
 | `revarray.cpp` | Reversing an array |
 | `sumele.cpp` | Finding the sum of array elements |
 
-## 🎯 Learning Goals
+# Learning Goals
 
 - Strengthen C++ fundamentals.
 - Improve logical thinking.
 - Practise arrays and searching.
 - Build a strong foundation in Data Structures & Algorithms.
 
-## 🛠️ Language & Tools
+# Language & Tools
 
 - C++
 - Visual Studio Code
 - GCC / G++
 
-## 🌱 About This Repository
+# About This Repository
 
 This repository documents my programming journey as a Computer Science student. It will continue to grow as I learn new concepts and solve more problems.
 
@@ -43,6 +43,6 @@ This repository documents my programming journey as a Computer Science student. 
 
 <div align="center">
 
-**💙 Keep Learning. Keep Building.**
+* Keep Learning. Keep Building.**
 
 </div>
